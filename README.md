@@ -1,7 +1,7 @@
 # keras_meetup
 Deep Learning Made Easy with Keras (Thessaloniki Machine Learning Meetup)
 
-To run the examples be sure to have all the requires dependecies installed
+To run the examples be sure to have all the required dependecies installed
 ```
 pip install tensorflow(-gpu)
 pip install keras
