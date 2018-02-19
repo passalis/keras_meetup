@@ -16,4 +16,5 @@ cd keras_meetup
 jupyter notebook
 ```
 
-
+## Acknowledgments
+Many online tutorials, including (but not limited to) https://github.com/fchollet/keras-resources
